@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>C++, Python, Dart</strong>
+ Habilidades: <strong>C++, Python, Dart</strong>
 </p>
 
 <p align="left">
-  💼 Frameworks: <strong>Flutter, MPLABX</strong>
+ Frameworks: <img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" /><strong>Flutter, MPLABX</strong>
 </p>
 
 <br>
