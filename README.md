@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
-  **<a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    **<img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
   </a>
 </p>
