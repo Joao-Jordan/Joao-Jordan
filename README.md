@@ -3,13 +3,12 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
+ ☕ Habilidades: <strong>C++, Python, Dart</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Flutter</strong>
+  💼 Frameworks: <strong>Flutter</strong>
 </p>
-
 
 <br>
 
@@ -19,10 +18,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
   </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
-  </a>
+ 
 </p>
