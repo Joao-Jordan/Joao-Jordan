@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
- Frameworks: <img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}"/><strong>Flutter, MPLABX</strong>
+ Frameworks: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><strong>Flutter, MPLABX</strong>
 </p>
 
 <br>
