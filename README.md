@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖖 Olá, meu nome é João Jordan, tenho 25 anos, sou graduando em Engenharia de Controle e Automação pela Universidade Tecnológica Federal do Paraná, campus Cornélio Procópio e atualmente estou aprendendo desenvolvimento mobile através do Flutter. Possuo experiência na programação de sistemas microcontrolados através do MPLABX.
+ 🖖 Olá, meu nome é <strong>João Jordan</strong>, tenho 25 anos, sou graduando em <strong>Engenharia de Controle e Automação</strong> pela <strong>Universidade Tecnológica Federal do Paraná</strong>, campus Cornélio Procópio e atualmente estou aprendendo desenvolvimento mobile através do <strong>Flutter<strong>. Possuo experiência na programação de sistemas microcontrolados através do MPLABX.
 </p>
 
 <p align="left">
