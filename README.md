@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖖 Olá, meu nome é <strong>João Jordan</strong>, tenho 25 anos, sou graduando em <strong>Engenharia de Controle e Automação</strong> pela <strong>Universidade Tecnológica Federal do Paraná</strong>, campus Cornélio Procópio e atualmente estou aprendendo desenvolvimento mobile através do <strong>Flutter<strong>. Possuo experiência na programação de sistemas microcontrolados através do MPLABX e do Arduino IDE. Já trabalhei com PIC's e ESP32.
+ 🖖 Olá, meu nome é <strong>João Jordan</strong>, tenho 25 anos, sou graduando em <strong>Engenharia de Controle e Automação</strong> pela <strong>Universidade Tecnológica Federal do Paraná</strong>, campus Cornélio Procópio e atualmente estou aprendendo desenvolvimento mobile através do <strong>Flutter<strong>. Possuo experiência na programação de sistemas microcontrolados através do MPLABX e do Arduino IDE. Já trabalhei com PIC's e ESP32. Além disso, ocasionalmente gosto de fazer lives jogando, conversando com meus amigos e também desenvolvendo aplicações mobile.
 </p>
 
 <p align="left">
