@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
- Habilidades: <strong>C++, Dart, Python</strong>
+ Habilidades: <strong>C++, Dart e Python</strong>
 </p>
 
 <p align="left">
- Frameworks: <strong>MPLABX, Flutter</strong>
+ Frameworks: <strong>Flutter, MPLABX</strong>
 </p>
 
 <br>
