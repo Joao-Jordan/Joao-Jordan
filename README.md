@@ -1,7 +1,9 @@
 <p align="left"> 
  <h1>Olá :call_me_hand: </h1> 
- Sobre mim: 
- Sou graduando em Engenharia de Controle e Automação, pela Universidade Tecnológica Federal do Paraná e atualmente estou aprendendo a desenvolver aplicações mobile com flutter. Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
+ **Sobre mim:** 
+ - :man_student:Graduando em Engenharia de Controle e Automação, pela Universidade Tecnológica Federal do Paraná
+ - Atualmente estou aprendendo a desenvolver aplicações mobile com ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ - Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
  
 </p>
 
