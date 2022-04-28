@@ -14,12 +14,12 @@
 
 <p align="left">
  
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joaojordan" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
   </a>
  
-   <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-    <img src="https://img.shields.io/badge/Twitch-6610F2.svg?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https:https://www.twitch.tv/mtsu0"/>
+   <a href="https://www.twitch.tv/mtsu0" alt="Twitch">
+    <img src="https://img.shields.io/badge/Twitch-6610F2.svg?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
   </a>
  
  
