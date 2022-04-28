@@ -15,12 +15,17 @@
 <p align="left">
  
   <a href="https://www.linkedin.com/in/joaojordan" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2.svg?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
   </a>
  
    <a href="https://www.twitch.tv/mtsu0" alt="Twitch">
     <img src="https://img.shields.io/badge/Twitch-6610F2.svg?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
   </a>
+ 
+ <a href="https://discord.gg/xXSnMq35wh" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-6610F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
+  </a>
+ 
  
  
 </p>
