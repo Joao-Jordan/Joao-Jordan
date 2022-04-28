@@ -12,6 +12,7 @@
 
 <br>
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-jordan)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
  
   <a href="https://www.linkedin.com/in/joaojordan" alt="Linkedin">
@@ -25,7 +26,6 @@
  <a href="https://discord.gg/xXSnMq35wh" alt="Discord">
     <img src="https://img.shields.io/badge/Discord-6610F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
   </a>
- 
  
  
 </p>
