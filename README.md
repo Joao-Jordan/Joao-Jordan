@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
- Frameworks: <strong>Flutter, MPLABX</strong>
+ Frameworks: <strong>Flutter, MPLABX e Arduino IDE</strong>
 </p>
 
 <br>
