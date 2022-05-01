@@ -1,11 +1,19 @@
 <p align="left"> 
  <h1>Olá :call_me_hand: </h1> 
- Sobre mim: 
- - :man_student:Graduando em <strong>Engenharia de Controle e Automação</strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
- - Atualmente estou aprendendo a desenvolver aplicações mobile com <strong>Flutter</strong>
- - Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
+ Sobre mim:
+ </p>
  
-</p>
+ <p>
+ :man_student: Graduando em <strong>Engenharia de Controle e Automação</strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
+ </p>
+ 
+ <p>
+  Atualmente estou aprendendo a desenvolver aplicações mobile com <strong>Flutter</strong>
+ </p>
+ 
+ <p>
+ - Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
+ </p>
 
 <p align="left">
  :memo: Linguagens: <strong>C++, Dart e Python</strong>
