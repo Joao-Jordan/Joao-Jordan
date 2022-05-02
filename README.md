@@ -13,7 +13,8 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
-  
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
+  ![Espressif](https://img.shields.io/badge/espressif-333333?style=flat&logo=Espressif&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -21,7 +22,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
 <br/>
 
 <a href="https://github.com/joao-jordan">
