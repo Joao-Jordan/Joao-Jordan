@@ -21,9 +21,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
-  ![Espressif](https://img.shields.io/badge/espressif-333333?style=flat&logo=espressif&logoColor=white)
 <br/>
 
 <a href="https://github.com/joao-jordan">
