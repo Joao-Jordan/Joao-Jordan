@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/joao-jordan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
 </a>
 
 
