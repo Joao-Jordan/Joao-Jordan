@@ -14,7 +14,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
-  ![Espressif](https://img.shields.io/badge/espressif-333333?style=flat&logo=Espressif&logoColor=white)
+  ![Espressif](https://img.shields.io/badge/Espressif-333333?style=flat&logo=Espressif&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -22,14 +22,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
-<br/>
 
-<a href="https://github.com/joao-jordan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Fale comigo</h3>
 
@@ -46,3 +39,14 @@
   <img alt="Email" src="https://img.shields.io/badge/Gmail-6610F2.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
   </a>
 </p>
+
+<br/>
+
+<a href="https://github.com/joao-jordan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
+</a>
+
+
+
+
