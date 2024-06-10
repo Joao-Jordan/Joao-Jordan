@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/joao-jordan">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
-  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joao-jordan&theme=radical&show_icons=true" />
+  <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-jordan&theme=radical&layout=compact" />
 </a>
 
 
