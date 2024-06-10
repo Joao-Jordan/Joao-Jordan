@@ -15,28 +15,23 @@
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 - 🔧 &nbsp;
-  ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 
 <h3> 🤝🏻 &nbsp;Fale comigo</h3>
 
   <a href="https://www.linkedin.com/in/joaojordan" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2.svg?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
-  </a>
-  <a href="https://www.twitch.tv/mtsu0" alt="Twitch">
-    <img src="https://img.shields.io/badge/Twitch-6610F2.svg?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
-  </a>
-  <a href="https://discord.gg/xXSnMq35wh" alt="Discord">
-    <img src="https://img.shields.io/badge/Discord-6610F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joaojordan"/>
   </a>
   <a href="mailto:dev.joao.jordan@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-6610F2.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
