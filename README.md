@@ -4,19 +4,19 @@
 <h3> Sobre mim </h3>
 
 - :man_student: Graduando em <strong>Engenharia de Controle e Automação</strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
-- :iphone: Atualmente estou aprendendo a desenvolver aplicações mobile com <strong>Flutter</strong>
+- :iphone: Atualmente trabalhando como <strong>Dev</strong> e <strong>P.O</strong> do app <strong>Movement Connect</strong>
 - :mechanical_arm: Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
 
 <h3> 🛠 &nbsp;Conhecimentos</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
-  ![Espressif](https://img.shields.io/badge/Espressif-333333?style=flat&logo=Espressif&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
